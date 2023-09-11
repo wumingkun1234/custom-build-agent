@@ -1,1 +1,1 @@
-FROM custom-build-agent:v1
+FROM jenkinsagent/jenkins-build-agent:1.0.0
